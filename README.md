@@ -40,42 +40,42 @@ Built as a working proof-of-concept for the **FSS Converge 2026 GIC White Paper*
 ### 1. Memory Extraction — Facts learned from natural conversation
 > MAIA silently extracts personal facts and populates the memory sidebar in real time.
 
-![Memory Extraction](screenshots/01_memory_extraction.png)
+![Memory Extraction](https://github.com/Naveen120896/maia/blob/main/screenshots/01_memory_extraction.PNG)
 
 ---
 
 ### 2. Memory Dashboard — `show memory` command
 > Structured memory dump: Summary + categorised key facts across Identity, Work, Location and more.
 
-![Memory Dashboard](screenshots/02_memory_dashboard.png)
+![Memory Dashboard](https://github.com/Naveen120896/maia/blob/main/screenshots/02_memory_dashboard.PNG)
 
 ---
 
 ### 3. Tamil Voice Response — Automatic language detection
 > MAIA detects Tamil from Unicode range (U+0B80–0BFF) and responds in the customer's language automatically.
 
-![Tamil Voice Response](screenshots/03_tamil_voice.png)
+![Tamil Voice Response](https://github.com/Naveen120896/maia/blob/main/screenshots/03_tamil_voice.PNG)
 
 ---
 
 ### 4. SHA-256 Cache Hit — ⚡ instant repeat response
 > Same question asked twice — second response is served from cache in <50ms with ⚡ cached badge.
 
-![Cache Hit](screenshots/04_cache_hit.png)
+![Cache Hit](https://github.com/Naveen120896/maia/blob/main/screenshots/04_cache_hit.PNG)
 
 ---
 
 ### 5. Voice Mode UI — Mic + live visualizer
 > Voice-first interface with animated visualizer, live transcript, and ripple mic button.
 
-![Voice Mode UI](screenshots/05_voice_ui.png)
+![Voice Mode UI](https://github.com/Naveen120896/maia/blob/main/screenshots/05_voice_ui.PNG)
 
 ---
 
 ### 6. Document Q&A — PDF intelligence
 > Upload any PDF — MAIA answers questions directly from the document content. Zero hallucination.
 
-![Document QA](screenshots/06_document_qa.png)
+![Document QA](https://github.com/Naveen120896/maia/blob/main/screenshots/06_document_qa.PNG)
 
 ---
 
